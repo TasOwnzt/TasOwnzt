@@ -33,6 +33,6 @@ languages until the one I chose to my professional life and I decided to follow 
 ##
 
 <div align="center">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TasOwnzt&show_icons=true&hide=issues&theme=dark&hide_border=true&border_radius=0&title_color=79ff97&include_all_commits=true" alt="TasOwnzt's stats"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TasOwnzt&show_icons=true&hide=issues,prs&theme=dark&hide_border=true&border_radius=0&title_color=79ff97&include_all_commits=true" alt="TasOwnzt's stats"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasOwnzt&layout=compact&theme=dark&border_radius=0&hide_border=true&title_color=79ff97" alt="Most Languages"/>
 </div>
