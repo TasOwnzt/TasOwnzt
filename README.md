@@ -25,3 +25,14 @@ languages until the one I chose to my professional life and I decided to follow 
 
 - ReactJs
 - NextJs
+
+### Contacts:
+
+<a href="https://www.linkedin.com/in/TasOwnzt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+##
+
+<p align="center>
+![TasOwnzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasOwnzt&show_icons=true&hide=issues&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasOwnzt&layout=compact)
+</p>
