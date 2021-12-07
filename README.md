@@ -34,9 +34,9 @@ languages until the one I chose to my professional life and I decided to follow 
 
 <p align="center">
 	<p align="left">
-		<img width="500em" src="https://github-readme-stats.vercel.app/api?username=TasOwnzt&show_icons=true&hide=issues&theme=dark&hide_border=true&border_radius=0&title_color=79ff97" alt="TasOwnzt's stats"/>
+		<img width="300em" src="https://github-readme-stats.vercel.app/api?username=TasOwnzt&show_icons=true&hide=issues&theme=dark&hide_border=true&border_radius=0&title_color=79ff97" alt="TasOwnzt's stats"/>
 	</p>
 	<p align="right">
-		<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasOwnzt&layout=compact&theme=dark&border_radius=0&hide_border=true&title_color=79ff97" alt="Most Languages"/>
+		<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasOwnzt&layout=compact&theme=dark&border_radius=0&hide_border=true&title_color=79ff97" alt="Most Languages"/>
 	</p>
 </p>
