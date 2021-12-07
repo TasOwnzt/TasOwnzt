@@ -33,6 +33,8 @@ languages until the one I chose to my professional life and I decided to follow 
 ##
 
 <p align="center>
-![TasOwnzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasOwnzt&show_icons=true&hide=issues&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasOwnzt&layout=compact)
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=TasOwnzt&show_icons=true&hide=issues&theme=dark&hide_border=true" alt="TasOwnzt's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasOwnzt&layout=compact" alt="TasOwnzt's most languages"/>
 </p>
