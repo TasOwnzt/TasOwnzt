@@ -1,10 +1,9 @@
 <div align="center">
 	<img src="Banner.svg" alt="Banner"/>
-	<br>
-	
-	![](https://img.shields.io/github/last-commit/tasownzt/tasownzt?style=for-the-badge)
 </div>
 
+<br>
+	![](https://img.shields.io/github/last-commit/tasownzt/tasownzt?style=for-the-badge)
 
 Hey, there
 
