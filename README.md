@@ -26,11 +26,13 @@ languages until the one I chose to my professional life and I decided to follow 
 - C/C++
 - C#
 - Java
+- SQL
 
 ### Frameworks
 
 - ReactJs
 - NextJs
+- Laravel
 
 ### Contacts:
 
